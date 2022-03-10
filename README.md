@@ -1,6 +1,6 @@
 # Aalto Micro and nano robotics
 
-## <span style="color:red">Deadline for pre-assignments 11. March 2022</span>
+### <span style="color:red">Deadline for pre-assignments 11. March 2022</span>
 
 ## Exercise 1
 1. Answer the following questions:
